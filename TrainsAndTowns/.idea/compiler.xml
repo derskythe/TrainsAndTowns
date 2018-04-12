@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TrainsAndTowns" />
+        <module name="TransAndTowns" />
+        <module name="TransAndTowns2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="TrainsAndTowns" target="1.8" />
+      <module name="TransAndTowns" target="1.8" />
+      <module name="TransAndTowns2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
